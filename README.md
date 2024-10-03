@@ -1,5 +1,11 @@
-## Hi there 👋
+## G'day!
+I'm Mark, a developer from down-under, currently working on open-source AI projects.
 
+Spending most of my time on agentic frameworks, like AutoGen.
+
+💬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/marksze/) or somewhere in a PR 😄.
+
+![Mark Sze's GitHub stats](https://github-readme-stats.vercel.app/api?username=marklysze&theme=calm_pink&show_icons=true&show=reviews)
 <!--
 **marklysze/marklysze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
