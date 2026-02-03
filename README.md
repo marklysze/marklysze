@@ -1,7 +1,5 @@
 ## G'day!
-I'm Mark, a developer from down-under, currently working on open-source AI projects.
-
-Spending most of my time on agentic frameworks, like AutoGen.
+I'm Mark, a developer from down-under, currently working with AG2.ai and on open-source agentic frameworks.
 
 💬 Reach out to me on [LinkedIn](https://www.linkedin.com/in/marksze/) or somewhere in a PR 😄.
 
